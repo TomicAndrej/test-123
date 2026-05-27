@@ -28,7 +28,7 @@ Obavezno uključiti screenshotove web i desktop verzije, tabelu poređenja i kra
 Objasniti šta nije intuitivno ili efikasno u web interfejsu (npr. previše koraka za određenu akciju, nejasne ikone, preopterećen interfejs...).
 
 **Screenshot web interfejsa:**  
-![Opis slike](folder/slika_2.png)
+![Opis slike](folder/slika_1.png)
 
 **Nielsen heuristika:**  
 Npr. H6 – Prepoznavanje umjesto pamćenja (Recognition rather than recall)  
