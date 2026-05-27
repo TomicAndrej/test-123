@@ -3,7 +3,7 @@
 **Predmet:** Human–Computer Interaction (HCI)  
 **Projekat:** Desktop klijent za Paperless-NGX  
 **Tehnologija:** C# / .NET 8 (WPF)  
-**Datum:** [unesi datum predaje]
+**Datum:** 28.05.2026.
 
 ---
 
@@ -24,24 +24,24 @@ Obavezno uključiti screenshotove web i desktop verzije, tabelu poređenja i kra
 
 ### Problem #1 – [Naziv problema]
 
-**Opis problema:**  
+**1. Problem u web interfejsu:**  
 Objasniti šta nije intuitivno ili efikasno u web interfejsu (npr. previše koraka za određenu akciju, nejasne ikone, preopterećen interfejs...).
 
-**Screenshot web interfejsa:**  
-![Opis slike](folder/slika_1.png)
+***1.1. Screenshot web interfejsa:***  
+![Opis slike](folder/slika_1.pdf)
 
-**Nielsen heuristika:**  
+**2. Prekršena heuristika:**  
 Npr. H6 – Prepoznavanje umjesto pamćenja (Recognition rather than recall)  
 Objasniti zbog čega je heuristika prekršena.
 
-**Desktop rješenje:**  
+**3. Rješenje u desktop klijentu:**  
 Opisati kako je problem riješen u desktop verziji i priložiti screenshot.  
 Navesti koliko su skraćeni koraci ili poboljšano razumijevanje korisničkog toka.
 
-**Objašnjenje:**  
+**4. Objašnjenje:**  
 Zašto je novo rješenje bolje i kako adresira prepoznatu heuristiku.
 
-**Mjerenje:**  
+**5. Mjerenje:**  
 Mini test sa jednom osobom (ili više ako je moguće).  
 Popuniti tabelu:
 
@@ -51,7 +51,119 @@ Popuniti tabelu:
 
 ---
 
-*(isti format se ponavlja za Problem #2 – Problem #5)*
+### Problem #2 – [Naziv problema]
+
+**1. Problem u web interfejsu:**  
+Objasniti šta nije intuitivno ili efikasno u web interfejsu (npr. previše koraka za određenu akciju, nejasne ikone, preopterećen interfejs...).
+
+***1.1. Screenshot web interfejsa:***  
+![Opis slike](folder/slika_2.pdf)
+
+**2. Prekršena heuristika:**  
+Npr. H6 – Prepoznavanje umjesto pamćenja (Recognition rather than recall)  
+Objasniti zbog čega je heuristika prekršena.
+
+**3. Rješenje u desktop klijentu:**  
+Opisati kako je problem riješen u desktop verziji i priložiti screenshot.  
+Navesti koliko su skraćeni koraci ili poboljšano razumijevanje korisničkog toka.
+
+**4. Objašnjenje:**  
+Zašto je novo rješenje bolje i kako adresira prepoznatu heuristiku.
+
+**5. Mjerenje:**  
+Mini test sa jednom osobom (ili više ako je moguće).  
+Popuniti tabelu:
+
+| Scenario | Web verzija | Desktop verzija |
+|-----------|--------------|-----------------|
+| [opis zadatka] | [vrijeme/koraci] | [vrijeme/koraci] |
+
+---
+
+### Problem #3 – [Naziv problema]
+
+**1. Problem u web interfejsu:**  
+Objasniti šta nije intuitivno ili efikasno u web interfejsu (npr. previše koraka za određenu akciju, nejasne ikone, preopterećen interfejs...).
+
+***1.1. Screenshot web interfejsa:***  
+![Opis slike](folder/slika_1.pdf)
+
+**2. Prekršena heuristika:**  
+Npr. H6 – Prepoznavanje umjesto pamćenja (Recognition rather than recall)  
+Objasniti zbog čega je heuristika prekršena.
+
+**3. Rješenje u desktop klijentu:**  
+Opisati kako je problem riješen u desktop verziji i priložiti screenshot.  
+Navesti koliko su skraćeni koraci ili poboljšano razumijevanje korisničkog toka.
+
+**4. Objašnjenje:**  
+Zašto je novo rješenje bolje i kako adresira prepoznatu heuristiku.
+
+**5. Mjerenje:**  
+Mini test sa jednom osobom (ili više ako je moguće).  
+Popuniti tabelu:
+
+| Scenario | Web verzija | Desktop verzija |
+|-----------|--------------|-----------------|
+| [opis zadatka] | [vrijeme/koraci] | [vrijeme/koraci] |
+
+---
+
+### Problem #4 – [Naziv problema]
+
+**1. Problem u web interfejsu:**  
+Objasniti šta nije intuitivno ili efikasno u web interfejsu (npr. previše koraka za određenu akciju, nejasne ikone, preopterećen interfejs...).
+
+***1.1. Screenshot web interfejsa:***  
+![Opis slike](folder/slika_2.pdf)
+
+**2. Prekršena heuristika:**  
+Npr. H6 – Prepoznavanje umjesto pamćenja (Recognition rather than recall)  
+Objasniti zbog čega je heuristika prekršena.
+
+**3. Rješenje u desktop klijentu:**  
+Opisati kako je problem riješen u desktop verziji i priložiti screenshot.  
+Navesti koliko su skraćeni koraci ili poboljšano razumijevanje korisničkog toka.
+
+**4. Objašnjenje:**  
+Zašto je novo rješenje bolje i kako adresira prepoznatu heuristiku.
+
+**5. Mjerenje:**  
+Mini test sa jednom osobom (ili više ako je moguće).  
+Popuniti tabelu:
+
+| Scenario | Web verzija | Desktop verzija |
+|-----------|--------------|-----------------|
+| [opis zadatka] | [vrijeme/koraci] | [vrijeme/koraci] |
+
+---
+
+### Problem #5 – [Naziv problema]
+
+**1. Problem u web interfejsu:**  
+Objasniti šta nije intuitivno ili efikasno u web interfejsu (npr. previše koraka za određenu akciju, nejasne ikone, preopterećen interfejs...).
+
+***1.1. Screenshot web interfejsa:***  
+![Opis slike](folder/slika_1.pdf)
+
+**2. Prekršena heuristika:**  
+Npr. H6 – Prepoznavanje umjesto pamćenja (Recognition rather than recall)  
+Objasniti zbog čega je heuristika prekršena.
+
+**3. Rješenje u desktop klijentu:**  
+Opisati kako je problem riješen u desktop verziji i priložiti screenshot.  
+Navesti koliko su skraćeni koraci ili poboljšano razumijevanje korisničkog toka.
+
+**4. Objašnjenje:**  
+Zašto je novo rješenje bolje i kako adresira prepoznatu heuristiku.
+
+**5. Mjerenje:**  
+Mini test sa jednom osobom (ili više ako je moguće).  
+Popuniti tabelu:
+
+| Scenario | Web verzija | Desktop verzija |
+|-----------|--------------|-----------------|
+| [opis zadatka] | [vrijeme/koraci] | [vrijeme/koraci] |
 
 ---
 
@@ -59,8 +171,7 @@ Popuniti tabelu:
 
 Ova sekcija opisuje funkcionalnost koju ste dodatno implementirali radi poboljšanja korisničkog iskustva.
 
-### Naziv funkcionalnosti:
-(npr. Analitika dokumenata, Pretraga prirodnim jezikom, Offline mod, itd.)
+### Naziv funkcionalnosti: Sistem za praćenje promjena u po (Watcher)
 
 ### Zašto je ova funkcionalnost potrebna?
 Kratko objasniti konkretan problem u postojećem sistemu koji ova funkcionalnost rješava.  
@@ -102,13 +213,3 @@ Primjer:
 
 U zaključku ukratko sumirati glavna unapređenja u desktop klijentu u odnosu na web interfejs i opisati kako su predložena rješenja doprinijela boljem korisničkom iskustvu.  
 Navedite koje su heuristike najviše kršene u originalnom interfejsu i na koji način su u vašoj implementaciji ispravljene.
-
----
-
-## Napomene
-
-- Dokument mora biti kreiran putem ovog markdown šablona, i predaje se u formatu **HCI_Analiza_Ime_Prezime.pdf** u korijen repozitorijuma.  
-- Obim: 6–8 strana.  
-- Svi screenshotovi moraju biti čitljivi i relevantni.  
-- Sve tabele i slike moraju biti numerisane i kratko opisane.  
-- Dokument mora sadržavati vaše ime i prezime na prvoj stranici.  
