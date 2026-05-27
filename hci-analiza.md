@@ -28,7 +28,7 @@ Obavezno uključiti screenshotove web i desktop verzije, tabelu poređenja i kra
 Objasniti šta nije intuitivno ili efikasno u web interfejsu (npr. previše koraka za određenu akciju, nejasne ikone, preopterećen interfejs...).
 
 ***1.1. Screenshot web interfejsa:***  
-![Opis slike](folder/slika_1.pdf)
+![Opis slike](folder/slika_1.png)
 
 **2. Prekršena heuristika:**  
 Npr. H6 – Prepoznavanje umjesto pamćenja (Recognition rather than recall)  
@@ -57,7 +57,7 @@ Popuniti tabelu:
 Objasniti šta nije intuitivno ili efikasno u web interfejsu (npr. previše koraka za određenu akciju, nejasne ikone, preopterećen interfejs...).
 
 ***1.1. Screenshot web interfejsa:***  
-![Opis slike](folder/slika_2.pdf)
+![Opis slike](folder/slika_2.png)
 
 **2. Prekršena heuristika:**  
 Npr. H6 – Prepoznavanje umjesto pamćenja (Recognition rather than recall)  
@@ -86,7 +86,7 @@ Popuniti tabelu:
 Objasniti šta nije intuitivno ili efikasno u web interfejsu (npr. previše koraka za određenu akciju, nejasne ikone, preopterećen interfejs...).
 
 ***1.1. Screenshot web interfejsa:***  
-![Opis slike](folder/slika_1.pdf)
+![Opis slike](folder/slika_1.png)
 
 **2. Prekršena heuristika:**  
 Npr. H6 – Prepoznavanje umjesto pamćenja (Recognition rather than recall)  
@@ -115,7 +115,7 @@ Popuniti tabelu:
 Objasniti šta nije intuitivno ili efikasno u web interfejsu (npr. previše koraka za određenu akciju, nejasne ikone, preopterećen interfejs...).
 
 ***1.1. Screenshot web interfejsa:***  
-![Opis slike](folder/slika_2.pdf)
+![Opis slike](folder/slika_2.png)
 
 **2. Prekršena heuristika:**  
 Npr. H6 – Prepoznavanje umjesto pamćenja (Recognition rather than recall)  
@@ -144,7 +144,7 @@ Popuniti tabelu:
 Objasniti šta nije intuitivno ili efikasno u web interfejsu (npr. previše koraka za određenu akciju, nejasne ikone, preopterećen interfejs...).
 
 ***1.1. Screenshot web interfejsa:***  
-![Opis slike](folder/slika_1.pdf)
+![Opis slike](folder/slika_1.png)
 
 **2. Prekršena heuristika:**  
 Npr. H6 – Prepoznavanje umjesto pamćenja (Recognition rather than recall)  
