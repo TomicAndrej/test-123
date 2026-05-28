@@ -24,7 +24,7 @@ Analiza obuhvata pet identifikovanih problema prisutnih u originalnom web interf
 **1. Problem u web interfejsu:**  
 Web interfejs Paperless-NGX sistema ne posjeduje jasno izdvojen prostor namijenjen za Upload dokumenata. Upload funkcionalnost je "skrivena" unutar glavnog prikaza dokumenata bez ikakvih "hintova" za novog korisnika gdje se ona nalazi. Jedini način za Upload je Drag&Drop zona, što je za novog korisnika potencijalno nepredvidiv broj koraka.
  
-![Slika 1.1](folder/web_interfejs_pocetni_ekran.png)
+![Slika 1.1](slike/web_interfejs_pocetni_ekran.png)
 *Slika 1.1 - Screenshot početnog ekrana web interfejsa gdje se traži "Upload" opcija*
 
 **2. Prekršena heuristika:**  
@@ -34,7 +34,7 @@ Od korisnika se očekuje da sam otkrije ili zapamti način Upload-a, a to bi web
 **3. Rješenje u desktop klijentu:**  
 U navigacionom meniju sa lijeve strane dodat je poseban tab za Upload koji je jasno vidljiv (čak i za novog korisnika). 
 
-![Slika 1.2](folder/desktop_upload.png)
+![Slika 1.2](slike/desktop_upload.png)
 *Slika 1.2 - Screenshot desktop aplikacije sa jasno vidljivim načinom Upload-a*
 
 **4. Objašnjenje:**  
@@ -54,7 +54,7 @@ Milica: *"Nisam mogla da nađem kako se uploaduje faj na web interfejsu. Na desk
 **1. Problem u web interfejsu:**  
 Otvaranje brzog pregleda u web verziji od korisnika zahtijeva veliku preciznost, jer je neophodno da "pogodi" malu ikonicu oka. Iako je broj potrebnih koraka samo 1, jako je neintuitivno.
  
-![Slika 2.1](folder/web_interfejs_preview.png)
+![Slika 2.1](slike/web_interfejs_preview.png)
 *Slika 2.1 - Screenshot preview-a na web interfejsu*
 
 **2. Prekršena heuristika:**  
@@ -64,7 +64,7 @@ Po Ficovom zakonu vrijeme potrebno za dolazak do cilja zavisi od veličine cilja
 **3. Rješenje u desktop klijentu:**  
 Način za dobijanje preview-a je veoma jednostavni hover preko bilo kog dijela kartice. Broj koraka je i dalje 1, ali je sada mnogo brže zbog manje potrebe za preciznošću.
 
-![Slika 2.2](folder/desktop_preview.png)
+![Slika 2.2](slike/desktop_preview.png)
 *Slika 2.2 - Screenshot preview-a u desktop aplikaciji*
 
 **4. Objašnjenje:**  
@@ -84,7 +84,7 @@ Milica: *Puno intuitivnije mi je da se preview otvara samo prelaskom preko karti
 Objasniti šta nije intuitivno ili efikasno u web interfejsu (npr. previše koraka za određenu akciju, nejasne ikone, preopterećen interfejs...).
 
 ***1.1. Screenshot web interfejsa:***  
-![Opis slike](folder/slika_1.png)
+![Opis slike](slike/slika_1.png)
 
 **2. Prekršena heuristika:**  
 Npr. H6 – Prepoznavanje umjesto pamćenja (Recognition rather than recall)  
@@ -113,7 +113,7 @@ Popuniti tabelu:
 Objasniti šta nije intuitivno ili efikasno u web interfejsu (npr. previše koraka za određenu akciju, nejasne ikone, preopterećen interfejs...).
 
 ***1.1. Screenshot web interfejsa:***  
-![Opis slike](folder/slika_2.png)
+![Opis slike](slike/slika_2.png)
 
 **2. Prekršena heuristika:**  
 Npr. H6 – Prepoznavanje umjesto pamćenja (Recognition rather than recall)  
@@ -142,7 +142,7 @@ Popuniti tabelu:
 Objasniti šta nije intuitivno ili efikasno u web interfejsu (npr. previše koraka za određenu akciju, nejasne ikone, preopterećen interfejs...).
 
 ***1.1. Screenshot web interfejsa:***  
-![Opis slike](folder/slika_1.png)
+![Opis slike](slike/slika_1.png)
 
 **2. Prekršena heuristika:**  
 Npr. H6 – Prepoznavanje umjesto pamćenja (Recognition rather than recall)  
